@@ -10,7 +10,7 @@ This project provides a **modern GUI dashboard** for managing employees, orders,
 
 ---
 
-## 🚀 Features (SEO Optimized)
+## 🚀 Features
 - 👨‍🍳 **Employee Management** – Add, edit, and manage staff efficiently  
 - 📦 **Stock & Inventory Tracking** – Keep track of available items in real-time  
 - 🍽️ **Product & Menu Management** – Manage food items, prices, and categories  
@@ -36,7 +36,7 @@ Advance_Restaurent_Managment_System/
 ## ⚙️ Installation Guide
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/Advance_Restaurent_Managment_System.git
+git clone https://github.com/Shahriyar-Kh/Advance_Restaurent_Managment_System.git
 cd Advance_Restaurent_Managment_System
 ```
 
@@ -60,7 +60,7 @@ python Dashboard/dashboard.py
 ---
 
 ## 📷 Screenshots
-👉 *(Add screenshots here for better SEO ranking on GitHub)*  
+
 
 ---
 
